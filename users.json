@@ -1,1 +1,16 @@
-
+{
+  "users": {
+    "123456789": {
+      "points": 5,
+      "history": [
+        {
+          "change": "+3",
+          "reason": "RDM",
+          "type": "Warning",
+          "staff": "Bassvr",
+          "date": "2026-01-26"
+        }
+      ]
+    }
+  }
+}
