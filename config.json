@@ -1,1 +1,9 @@
+{
+  "thresholds": {
+    "5": "⚠️ User has reached 5 points",
+    "10": "🚨 User has reached 10 points – consider punishment",
+    "15": "⛔ User has reached 15 points – auto action recommended"
+  },
+  "log_channel": "CHANNEL_ID_HERE"
+}
 
